@@ -1,7 +1,7 @@
 # Exp-1 ATM & BANKING SYSTEM
 
-Name:- K S Ashwin Kumar
-reg no:- 212224040034
+## Name:- K S Ashwin Kumar
+## reg no:- 212224040034
 # AIM:
 To study the problem statement and SRS of an ATM System and represent its architecture using UML diagrams.
 # SRS (Procedure):
